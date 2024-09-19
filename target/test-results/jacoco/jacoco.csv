@@ -1,0 +1,17 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+Loja,br.insper.loja.time.service,TimeService,21,32,4,4,4,8,3,5,1,3
+Loja,br.insper.loja.partida.exception,PartidaNaoEncontradaException,4,0,0,0,2,0,1,0,1,0
+Loja,br.insper.loja.partida.model,Partida,49,3,0,0,8,1,14,1,14,1
+Loja,br.insper.loja.common,WebSecurityConfig,0,15,0,0,0,3,0,2,0,2
+Loja,br.insper.loja.common,Erro,24,0,0,0,10,0,7,0,7,0
+Loja,br.insper.loja.time.model,Time,36,17,0,0,15,8,7,5,7,5
+Loja,br.insper.loja.partida.dto,EditarPartidaDTO,17,0,0,0,7,0,5,0,5,0
+Loja,br.insper.loja.partida.dto,RetornarPartidaDTO,77,0,0,0,27,0,14,0,14,0
+Loja,br.insper.loja.partida.dto,SalvarPartidaDTO,17,0,0,0,7,0,5,0,5,0
+Loja,br.insper.loja.time.exception,TimeNaoEncontradoException,0,4,0,0,0,2,0,1,0,1
+Loja,br.insper.loja.partida.service,PartidaService,135,3,10,0,31,1,9,1,4,1
+Loja,br.insper.loja,LojaApplication,5,3,0,0,2,1,1,1,1,1
+Loja,br.insper.loja.partida.controller,PartidaAdvice,17,3,0,0,5,1,1,1,1,1
+Loja,br.insper.loja.partida.controller,PartidaController,21,3,0,0,4,1,4,1,4,1
+Loja,br.insper.loja.time.controller,TimeAdvice,17,3,0,0,5,1,1,1,1,1
+Loja,br.insper.loja.time.controller,TimeController,15,3,0,0,3,1,3,1,3,1
